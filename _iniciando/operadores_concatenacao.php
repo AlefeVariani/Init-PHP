@@ -1,5 +1,12 @@
 <?php
 
+/**
+* Referência  
+* @link http://php.net/manual/pt_BR/language.types.intro.php
+* @link http://php.net/manual/pt_BR/language.operators.assignment.php
+* @link http://php.net/manual/pt_BR/language.operators.string.php 
+*/
+
 $a = 10;
 $b = 12;
 

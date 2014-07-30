@@ -1,5 +1,10 @@
 <?php
 
+/**
+* Referência
+* @link http://php.net/manual/pt_BR/tutorial.firstpage.php
+*/
+
 $nome = "Alefe Variani";
 
 //exibe

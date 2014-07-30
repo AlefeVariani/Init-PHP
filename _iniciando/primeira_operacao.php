@@ -1,5 +1,10 @@
 <?php
 
+/**
+* Referência  
+* @link http://php.net/manual/pt_BR/language.operators.precedence.php 
+*/
+
 echo 2 + 2 / 2; #3
 echo (2+2) / 2; #2
 echo (((2 + 4) - 2) / 2); #2

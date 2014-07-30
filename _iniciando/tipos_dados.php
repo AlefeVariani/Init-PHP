@@ -1,5 +1,10 @@
 <?php
 
+/**
+* Referência  
+* @link http://php.net/manual/pt_BR/language.types.intro.php 
+*/
+
 # Quatro tipos de Dados:
 
 # - String
