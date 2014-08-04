@@ -1,5 +1,10 @@
 <?php 
 
+/**
+* Referência  
+* @link http://php.net/manual/pt_BR/control-structures.while.php
+*/
+
 $i = 1;
 
 switch ($i) {

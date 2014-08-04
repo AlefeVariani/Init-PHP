@@ -1,6 +1,9 @@
 <?php
 
 /**
+* Referência
+* @link http://php.net/manual/pt_BR/control-structures.foreach.php
+* 
 * Um dos laços mais usado no PHP
 */
 
