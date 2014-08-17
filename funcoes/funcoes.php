@@ -1,11 +1,11 @@
 <?php
 
-function fazSoma() {
+function fazSoma() { // Sem parâmetros 
     echo 3 + 2;
 }
 fazSoma();
 
-function soma($a, $b) {
+function soma($a, $b) {  // Com dois parâmetros, $a e $b.
     return $a + $b;
 }
 
