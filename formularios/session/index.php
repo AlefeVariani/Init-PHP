@@ -6,8 +6,8 @@ $senha = "123";
 
 if ($login == "ale" and $senha == "123") {
     $_SESSION['logado'] = true;
-    echo"logou";
+    echo "Logou";
     header("location: secreto.php");
 } else {
-    echo"não logado";
+    echo "Não logado";
 }
