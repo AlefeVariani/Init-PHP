@@ -15,6 +15,8 @@ Tópicos:
 - Estruturas de Controle
 - Criando e usando Funções
 - Formularios
+- Banco de dados
+- Arquivos
 
 
 Obs.:
