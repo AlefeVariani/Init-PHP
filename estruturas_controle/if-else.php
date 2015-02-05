@@ -6,7 +6,6 @@
 */
 
 $d = "Alefe";
-
 if ($d != "Alefe") { // Sintase basico do if
 	echo "Nome informado não é $d";
 }
@@ -19,9 +18,9 @@ echo "Nome informado é $d";
 $c = true;
 
 if ($c == false)
-	echo "Valor de $c é FALSE";
+	echo "Valor de é FALSE";
 
-echo "Valor de $c é TRUE";
+echo "Valor de é TRUE";
 
 #-----------------------------------------
 #-----------------------------------------
@@ -58,7 +57,17 @@ if ($e > 100) {
 	echo "Valor $e é menor que 100";
 }
 
+#-----------------------------------------
+#-----------------------------------------
+# If de forma reduzida - (codicao) ? (se) : (else);
 
+$q = '';
+$t = null;
+$val = empty($q) ? 'Valor é vazio' : 'Valor não é vazio';
+$val2 = !is_null($t) ? 'Valor não é null' : 'Valor é null';
+ 
+$val3 = $q ?: 'aqui';
 
-
-
+echo $val;
+echo $val2;
+echo $val3;
