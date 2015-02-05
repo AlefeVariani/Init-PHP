@@ -11,16 +11,18 @@ if ($d != "Alefe") { // Sintase basico do if
 }
 
 echo "Nome informado é $d";
+// Resultado: Nome informado é Alefe
 
 #-----------------------------------------
 #-----------------------------------------
 
-$c = true;
+$c = false;
 
 if ($c == false)
-	echo "Valor de é FALSE";
+	echo "Valor é FALSE";
 
-echo "Valor de é TRUE";
+echo "Valor é TRUE";
+// Resultado: Valor é FALSE
 
 #-----------------------------------------
 #-----------------------------------------
@@ -32,6 +34,7 @@ if ($a > 10) { // Sintase basico do if else
 } else {
 	echo "O numero $a é menor que 10";
 }
+// Resultado: O numero 12 é maior que 10
 
 #-----------------------------------------
 #-----------------------------------------
@@ -43,6 +46,7 @@ if ($b < 10) :// Sintase alternartiva do if else
 else :
 	echo "O numero $b é maior que 10";
 endif;
+// Resultado: O numero 9 é menor que 10
 
 #-----------------------------------------
 #-----------------------------------------
@@ -56,6 +60,7 @@ if ($e > 100) {
 } else {
 	echo "Valor $e é menor que 100";
 }
+// Resultado: Valor 100 é igual a 100
 
 #-----------------------------------------
 #-----------------------------------------
@@ -65,9 +70,10 @@ $q = '';
 $t = null;
 $val = empty($q) ? 'Valor é vazio' : 'Valor não é vazio';
 $val2 = !is_null($t) ? 'Valor não é null' : 'Valor é null';
- 
-$val3 = $q ?: 'aqui';
 
-echo $val;
-echo $val2;
-echo $val3;
+// Nesse if é verificado se $q não é vazio ou null, se for mostra 'Valor é vazio ou null' 
+$val3 = $q ?: 'Valor é vazio ou null';
+
+echo $val; // Resultado: Valor é vazio
+echo $val2; // Resultado: Valor é null
+echo $val3; // Resultado: Valor é vazio
