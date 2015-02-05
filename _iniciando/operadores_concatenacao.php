@@ -15,18 +15,17 @@ $subtrai = $a - $b;
 $multipla = $a * $b;
 $divide = $a / $b;
 
-echo $soma;
-
 //------------------
 
-$a++; //$a + 1;
+$a++; // + 1, quando em um laço
 $a--;
-$a+= 5;
+$a+= 5; // + 5
 $a-= 4;
-
-echo $a;
+++$a; // + 1
+--$a; // - 1
 
 //------------------
+// Concatenação
 
 $nome = "Alefe";
 $sobrenome = "Variani";
@@ -34,3 +33,7 @@ $sobrenome = "Variani";
 echo $nome.$sobrenome."Ok";
 $nome .= "Variani";
 echo $nome;
+
+echo 'Nome: ', $nome, ' Sobrenome: ', $sobrenome;
+
+echo "Nome: $nome Sobrenome: $sobrenome";

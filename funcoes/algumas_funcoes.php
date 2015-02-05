@@ -29,6 +29,3 @@ var_dump(empty($b)); // Verfica se a variavel é vazia
 
 $array = array('as','fd','rt','yt','gfd');
 print count($array); // Retorna o número de elementos
- 
-
-

@@ -18,6 +18,3 @@ $Float = 1.75;
 
 # - Bolean
 $Bolean = TRUE;
-
-
-

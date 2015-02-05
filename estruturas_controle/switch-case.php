@@ -1,5 +1,4 @@
 <?php 
-
 /**
 * Referência  
 * @link http://php.net/manual/pt_BR/control-structures.while.php
@@ -69,7 +68,3 @@ switch ($e):
 		echo "Numero nao encontrado";
 		break;
 endswitch;
-
-
-
-

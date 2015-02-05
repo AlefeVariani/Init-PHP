@@ -1,5 +1,4 @@
-<?php 
-
+<?php
 /**
 * Referência  
 * @link http://php.net/manual/pt_BR/control-structures.switch.php 

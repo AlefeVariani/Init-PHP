@@ -1,5 +1,4 @@
 <?php
-
 /**
 * Referência
 * @link http://php.net/manual/pt_BR/tutorial.firstpage.php
@@ -27,4 +26,4 @@ var_dump($nome);
 
 <h1>Oi <?php echo $nome; ?></h1>
 <!--Outra maneira -->
-<h1>Oi <?=$nome?></h1> 
+<h1>Oi <?=$nome?></h1>

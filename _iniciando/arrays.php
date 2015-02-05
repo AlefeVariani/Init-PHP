@@ -1,5 +1,4 @@
 <?php
-
 /**
 * Referência  
 * @link http://php.net/manual/pt_BR/language.types.array.php 
@@ -34,5 +33,15 @@ $b = array(
 		'brasil',
 		'alemanha',
 		'argentina'
-	),	
+	)
 );
+
+#Obs.: Atualmento é recomendao a declaração de array assim []
+
+$array = [];
+
+$array2 = [
+	'time' => [
+		'chape'
+	]
+];

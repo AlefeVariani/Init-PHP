@@ -12,5 +12,3 @@ Bom, exitem funções para praticamente tudo, veja você mesmo:
 Referencias
 -----------
  - http://php.net/manual/pt_BR/language.functions.php 
-
-

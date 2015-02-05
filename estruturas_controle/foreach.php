@@ -1,5 +1,4 @@
 <?php
-
 /**
 * Referência
 * @link http://php.net/manual/pt_BR/control-structures.foreach.php
@@ -31,4 +30,5 @@ $alfabeto = array("a","b","c","d","e");
 
 foreach ($alfabeto as $a):
 	echo $a;
-endforeach;	
+endforeach;
+	

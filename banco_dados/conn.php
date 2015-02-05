@@ -7,4 +7,3 @@
 require '../conexao.php';
 
 $conn = mysqli_connect(HOST, USER, PASS, BASE);
-

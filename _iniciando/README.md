@@ -1,16 +1,17 @@
 Iniciando
 ---------
 
-Como todas linguagens de programação em PHP iniciamos como:
+Como todas linguagens de programação em PHP iniciamos com:
 
 - Tipos de Dados
-- Variaveis
+- Variáveis
 - Exibir valores
-- Em que aplicações são usadas o PHP ? 
-- Até onde podemos ir com PHP ?
-- O que podemos fazer com PHP ?
+- Em que aplicações é usado o PHP? 
+- Até onde podemos ir com PHP?
+- O que podemos fazer com PHP?
 
-E demais pontos importantes para começar pelo caminho certo,
+Dentre outros pontos importantes para começar pelo caminho certo,
 PHP possui um documentação muito boa e uma comunidade muito forte.
 
-Participe, Apareça, Escreva um Blog(não só de programação), Use o GitHub e Ajude quem você puder! 
+Participe, Apareça, Escreva um Blog(não só de programação), Use o GitHub e Ajude quem você puder!
+ 

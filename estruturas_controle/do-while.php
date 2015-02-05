@@ -1,5 +1,4 @@
 <?php
-
 /**
 * Referência
 * @link http://php.net/manual/pt_BR/control-structures.do.while.php
