@@ -16,9 +16,9 @@ $tes = "alefe variani chapeco sc brasil";
 print strpos($tes, "chapeco"); // Mostra a posicao da ocorrencia de chapeco
 
 $aub = "alefevariani";
-print substr($aub, 3,9); // Retorna parte da string, pelas posições
+print substr($aub, 3, 9); // Retorna parte da string, pelas posições
 
-$ert = " abcdefg "; 
+$ert = " abcdefg ";
 print trim($ert); // Retira espaços do lado esquerdo e direito, menos do meio da string
 
 $a = '';

@@ -27,8 +27,8 @@ $arquivo3 = "logs/arquivo3_logs.log";
 $fh = fopen($arquivo3, 'r');
 fwrite($fh, "Teste arquivo arquivo3_logs.log" . PHP_EOL);
 
-while($row = fgets($fh)){
-	echo $row . '<br>';
+while ($row = fgets($fh)) {
+    echo $row . '<br>';
 }
 //ou
 while (!feof($fh)) {

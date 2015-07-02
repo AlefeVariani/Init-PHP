@@ -1,9 +1,10 @@
 <?php
 
 /**
- * Referência  
- * @link http://php.net/manual/pt_BR/language.types.array.php 
+ * Referência
+ * @link http://php.net/manual/pt_BR/language.types.array.php
  */
+
 $a[0] = "a";
 $a[1] = "b";
 

@@ -1,8 +1,8 @@
 <?php
 
 /**
-* Referência  
-* @link http://php.net/manual/pt_BR/language.types.intro.php 
+* Referência
+* @link http://php.net/manual/pt_BR/language.types.intro.php
 */
 
 # Quatro tipos de Dados:
@@ -17,4 +17,4 @@ $Integer = 20;
 $Float = 1.75;
 
 # - Bolean
-$Bolean = TRUE;
+$Bolean = true;

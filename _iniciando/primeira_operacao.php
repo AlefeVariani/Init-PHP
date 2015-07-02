@@ -1,8 +1,8 @@
 <?php
 
 /**
-* Referência  
-* @link http://php.net/manual/pt_BR/language.operators.precedence.php 
+* Referência
+* @link http://php.net/manual/pt_BR/language.operators.precedence.php
 */
 
 echo 2 + 2 / 2; #3
