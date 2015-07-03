@@ -9,6 +9,6 @@ utilizar funções que o próprio PHP oferece.
 Bom, exitem funções para praticamente tudo, veja você mesmo:
 	-http://php.net/manual/pt_BR/language.functions.php
 
-Referencias
+Referências
 -----------
  - http://php.net/manual/pt_BR/language.functions.php 
