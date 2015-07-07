@@ -11,4 +11,8 @@ Bom, exitem funções para praticamente tudo, veja você mesmo:
 
 Referências
 -----------
- - http://php.net/manual/pt_BR/language.functions.php 
+ - http://php.net/manual/pt_BR/language.functions.php
+
+### [Funções para String](http://us3.php.net/manual/pt_BR/ref.strings.php) 
+### [Funções para Array](http://us3.php.net/manual/pt_BR/ref.array.php) 
+### [Funções para Opções/Info do PHP](http://php.net/manual/pt_BR/ref.info.php)

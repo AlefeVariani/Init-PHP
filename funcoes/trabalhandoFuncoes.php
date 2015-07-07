@@ -5,6 +5,7 @@ function fazSoma()
 {
     echo 3 + 2;
 }
+
 fazSoma();
 
 // Com dois parâmetros, $a e $b.
